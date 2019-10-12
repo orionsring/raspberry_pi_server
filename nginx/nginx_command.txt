@@ -1,0 +1,10 @@
+pi@raspberrypi ~ $ sudo nginx
+pi@raspberrypi ~ $ sudo apt-get install nginx
+
+#this installs nginx as a web server for serving up static content
+#also good for proxying 
+
+pi@raspberrypi ~ $ cd pweb
+pi@raspberrypi ~/pweb $ mkdir cgi-bin
+pi@raspberrypi ~/pweb $  clear
+
